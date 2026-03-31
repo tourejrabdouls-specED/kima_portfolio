@@ -1,4 +1,4 @@
-# Phase 0 - Requirement Gathering
+# Phase 0 - Requirement Gatherings
 
 - Objective: Teach requirements engineering through stakeholder analysis and user story definition.
 - Timeframe: February
